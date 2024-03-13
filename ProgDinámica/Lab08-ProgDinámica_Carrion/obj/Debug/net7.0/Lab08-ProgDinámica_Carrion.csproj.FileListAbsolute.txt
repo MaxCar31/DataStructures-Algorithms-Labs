@@ -1,0 +1,15 @@
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\bin\Debug\net7.0\Lab08-ProgDinámica_Carrion.exe
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\bin\Debug\net7.0\Lab08-ProgDinámica_Carrion.deps.json
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\bin\Debug\net7.0\Lab08-ProgDinámica_Carrion.runtimeconfig.json
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\bin\Debug\net7.0\Lab08-ProgDinámica_Carrion.dll
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\bin\Debug\net7.0\Lab08-ProgDinámica_Carrion.pdb
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.csproj.AssemblyReference.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.AssemblyInfoInputs.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.AssemblyInfo.cs
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.csproj.CoreCompileInputs.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.dll
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\refint\Lab08-ProgDinámica_Carrion.dll
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.pdb
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\Lab08-ProgDinámica_Carrion.genruntimeconfig.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab08-ProgDinámica_Carrion\obj\Debug\net7.0\ref\Lab08-ProgDinámica_Carrion.dll

@@ -1,0 +1,17 @@
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\bin\Debug\net6.0-windows\Lab04_Carrion.exe
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\bin\Debug\net6.0-windows\Lab04_Carrion.deps.json
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\bin\Debug\net6.0-windows\Lab04_Carrion.runtimeconfig.json
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\bin\Debug\net6.0-windows\Lab04_Carrion.dll
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\bin\Debug\net6.0-windows\Lab04_Carrion.pdb
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.csproj.AssemblyReference.cache
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.Form1.resources
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.csproj.GenerateResource.cache
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.AssemblyInfoInputs.cache
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.AssemblyInfo.cs
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.csproj.CoreCompileInputs.cache
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.dll
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\refint\Lab04_Carrion.dll
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.pdb
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\Lab04_Carrion.genruntimeconfig.cache
+C:\Users\Max Carrión\Downloads\TonyLab2\Lab04_Carrion\Lab04_Carrion\obj\Debug\net6.0-windows\ref\Lab04_Carrion.dll
