@@ -1,0 +1,15 @@
+C:\Users\LabP353\Documents\progra\bin\Debug\net7.0\progra.exe
+C:\Users\LabP353\Documents\progra\bin\Debug\net7.0\progra.deps.json
+C:\Users\LabP353\Documents\progra\bin\Debug\net7.0\progra.runtimeconfig.json
+C:\Users\LabP353\Documents\progra\bin\Debug\net7.0\progra.dll
+C:\Users\LabP353\Documents\progra\bin\Debug\net7.0\progra.pdb
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.csproj.AssemblyReference.cache
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.AssemblyInfoInputs.cache
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.AssemblyInfo.cs
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.csproj.CoreCompileInputs.cache
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.dll
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\refint\progra.dll
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.pdb
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\progra.genruntimeconfig.cache
+C:\Users\LabP353\Documents\progra\obj\Debug\net7.0\ref\progra.dll
