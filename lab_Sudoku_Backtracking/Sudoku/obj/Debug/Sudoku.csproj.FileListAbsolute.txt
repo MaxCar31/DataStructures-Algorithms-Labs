@@ -1,0 +1,44 @@
+C:\Users\irobot\source\repos\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\irobot\source\repos\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\irobot\source\repos\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\irobot\source\repos\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Max Carrion\Downloads\Sudoku_Ismael_Toala\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\irobot\Downloads\Sudoku_Carrion\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Max Carrion\Documents\Sudoku_Carrion\Sudoku\obj\Debug\Sudoku_Carrion.Form1.resources
