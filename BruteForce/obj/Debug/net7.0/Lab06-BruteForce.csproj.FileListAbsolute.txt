@@ -1,0 +1,15 @@
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.csproj.AssemblyReference.cache
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.AssemblyInfoInputs.cache
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.AssemblyInfo.cs
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\bin\Debug\net7.0\Lab06-BruteForce.exe
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\bin\Debug\net7.0\Lab06-BruteForce.deps.json
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\bin\Debug\net7.0\Lab06-BruteForce.runtimeconfig.json
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\bin\Debug\net7.0\Lab06-BruteForce.dll
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\bin\Debug\net7.0\Lab06-BruteForce.pdb
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.dll
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\refint\Lab06-BruteForce.dll
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.pdb
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\Lab06-BruteForce.genruntimeconfig.cache
+C:\Users\Max Carrion\Documents\Proyectitos\Lab06-BruteForce\obj\Debug\net7.0\ref\Lab06-BruteForce.dll

@@ -1,0 +1,15 @@
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.csproj.AssemblyReference.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.AssemblyInfoInputs.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.AssemblyInfo.cs
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.csproj.CoreCompileInputs.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\bin\Debug\net7.0\Lab09-DivideYVenceras.exe
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\bin\Debug\net7.0\Lab09-DivideYVenceras.deps.json
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\bin\Debug\net7.0\Lab09-DivideYVenceras.runtimeconfig.json
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\bin\Debug\net7.0\Lab09-DivideYVenceras.dll
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\bin\Debug\net7.0\Lab09-DivideYVenceras.pdb
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.dll
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\refint\Lab09-DivideYVenceras.dll
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.pdb
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\Lab09-DivideYVenceras.genruntimeconfig.cache
+C:\Users\Max Carrion\OneDrive - Escuela Politécnica Nacional\2023-A\Estructura de datos y algoritmos II\Lab09-DivideYVenceras\obj\Debug\net7.0\ref\Lab09-DivideYVenceras.dll
