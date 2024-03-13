@@ -27,9 +27,8 @@ Puedes clonar el repositorio y navegar a cada directorio para ver los ejercicios
 git clone git clone https://github.com/MaxCar31/DataStructures-Algorithms-Labs.git
 cd DataStructures-Algorithms-Labs
 ```
-
-##Contribuciones
+## Contribuciones
 Siéntete libre de bifurcar el repositorio, explorar el código y contribuir a los ejercicios mediante pull requests. Estoy abierto a cualquier mejora o nuevos ejercicios que creas que deberían ser parte de esta colección.
 
-##Licencia
+## Licencia
 Este proyecto es de código abierto.
